@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://powerseven.github.io</id>
+    <title>seven-nav</title>
+    <updated>2022-05-13T07:10:44.149Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://powerseven.github.io"/>
+    <link rel="self" href="https://powerseven.github.io/atom.xml"/>
+    <logo>https://powerseven.github.io/images/avatar.png</logo>
+    <icon>https://powerseven.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, seven-nav</rights>
+</feed>
